@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Premain-Class: SqlAnalyzerAgent
+Created-By: 21.0.3 (Oracle Corporation)
+
